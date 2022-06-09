@@ -1,23 +1,21 @@
 ---
+title: Nalezená poezie:Dlouhé horké léto
 contentType: prose
 ---
 
-Nalezená poezie:  
-Dlouhé horké léto
+_President a paní Johnsonová  
+se starší dcerou Lyndou  
+modlili se dnes  
+v National City Christian Church  
+za občanská práva  
+a rasovou harmonii._
 
-> President a paní Johnsonová  
-> se starší dcerou Lyndou  
-> modlili se dnes  
-> v National City Christian Church  
-> za občanská práva  
-> a rasovou harmonii.
+_Šaty slečny Johnsonové,  
+americké výroby,  
+byly v barvě  
+                       bílé  
+a  
+                       čokoládově hnědé  
+a z těžké bavlny._
 
-> Šaty slečny Johnsonové,  
-> americké výroby,  
-> byly v barvě  
->                        bílé  
-> a  
->                        čokoládově hnědé  
-> a z těžké bavlny.
-
-N. Y. Times, červenec 1967
+> N. Y. Times, červenec 1967

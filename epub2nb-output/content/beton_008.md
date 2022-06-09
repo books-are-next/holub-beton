@@ -1,25 +1,24 @@
 ---
+title: Van Wyck Expressway
 contentType: prose
 ---
 
-Van Wyck Expressway
+_Podle  
+Ohmova zákona  
+napětí jest přímo úměrné  
+odporu proudovodiče, který  
+pracuje beze ztrát._
 
-> Podle  
-> Ohmova zákona  
-> napětí jest přímo úměrné  
-> odporu proudovodiče, který  
-> pracuje beze ztrát.
+_Podle  
+Kirchhoffova zákona  
+součet intensit proudů  
+ve větvích  
+rovná se intensitě proudu  
+nerozvětveného._
 
-> Podle  
-> Kirchhoffova zákona  
-> součet intensit proudů  
-> ve větvích  
-> rovná se intensitě proudu  
-> nerozvětveného.
-
-> Blížíme se pólu  
-> s rukama na volantu  
-> a v srdci  
->                 s hrůzou  
-> létacích ryb, které  
-> ne a ne vzlétnout.
+_Blížíme se pólu  
+s rukama na volantu  
+a v srdci  
+                s hrůzou  
+létacích ryb, které  
+ne a ne vzlétnout._

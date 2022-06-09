@@ -1,26 +1,25 @@
 ---
+title: East River Drive
 contentType: prose
 ---
 
-East River Drive
+_Břitva asfaltu obtahovaná  
+staroslavným řemenem řeky._
 
-> Břitva asfaltu obtahovaná  
-> staroslavným řemenem řeky.
+_Je na déšť.  
+Unášejí Persefonu  
+kus po kuse  
+v kufrech._
 
-> Je na déšť.  
-> Unášejí Persefonu  
-> kus po kuse  
-> v kufrech.
+_Třaslavé prsty ulic  
+plazí se sem  
+v marném úsilí  
+dotknout se  
+bílého těla._
 
-> Třaslavé prsty ulic  
-> plazí se sem  
-> v marném úsilí  
-> dotknout se  
-> bílého těla.
+_Auta, řinoucí se slzy  
+pokryté slzami, pokryté  
+slzami, unášejí  
+Persefonu_
 
-> Auta, řinoucí se slzy  
-> pokryté slzami, pokryté  
-> slzami, unášejí  
-> Persefonu
-
-> řičící smíchem.
+_řičící smíchem._

@@ -1,24 +1,23 @@
 ---
+title: "11\\.30 v\_noci, Far Rockaway"
 contentType: prose
 ---
 
-11.30 v noci, Far Rockaway
+_Za rohem odchází býk,  
+aby řevem zvěstoval  
+stáří světa._
 
-> Za rohem odchází býk,  
-> aby řevem zvěstoval  
-> stáří světa.
+_Za rohem odchází černá dívka  
+v bílém,  
+vlastně jen  
+bílé samo._
 
-> Za rohem odchází černá dívka  
-> v bílém,  
-> vlastně jen  
-> bílé samo.
+_Za rohem krvavý prs luny  
+kojí moře._
 
-> Za rohem krvavý prs luny  
-> kojí moře.
+_A v dálce odjíždí  
+poslední autobus,  
+takže už nezbývá nic,  
+odkud by se dalo_
 
-> A v dálce odjíždí  
-> poslední autobus,  
-> takže už nezbývá nic,  
-> odkud by se dalo
-
-> vystoupit.
+_vystoupit._

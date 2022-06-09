@@ -1,48 +1,47 @@
 ---
+title: Nápisy na zdech
 contentType: prose
 ---
 
-Nápisy na zdech
+_My jsme ty lidi, co nás před nimi rodiče  
+varovali._
 
-> My jsme ty lidi, co nás před nimi rodiče  
-> varovali.
+_Lehni si, myslím, že tě miluji._
 
-> Lehni si, myslím, že tě miluji.
+_Asijská chřipka Asiatům._
 
-> Asijská chřipka Asiatům.
+_Šetři vodu, sprchuj se s přítelem!_
 
-> Šetři vodu, sprchuj se s přítelem!
+_Neurózy jsou žlutý,_
 
-Neurózy jsou žlutý,
+_melanchólie nachový._
 
-melanchólie nachový.
+_Já jsem schizofrenik._
 
-Já jsem schizofrenik.
+_A co jste Vy?_
 
-A co jste Vy?
+_Smrt je způsob, jakým vás příroda_
 
-> Smrt je způsob, jakým vás příroda
+_upozorňuje, abyste zpomalili._
 
-> upozorňuje, abyste zpomalili.
+_Zakažte Bombu, zachraňte svět pro_
 
-> Zakažte Bombu, zachraňte svět pro
+_konvenční válku!_
 
-> konvenční válku!
+_Bůh není mrtev, jen nemůže najít_
 
-> Bůh není mrtev, jen nemůže najít
+_parkovací místo._
 
-> parkovací místo.
+_Kde je Lee Harvey Oswald teď,_
 
-> Kde je Lee Harvey Oswald teď,
+_když ho skutečně potřebujeme?_
 
-> když ho skutečně potřebujeme?
+_Zrušte duševní rovnováhu!_
 
-> Zrušte duševní rovnováhu!
+_Leda miluje labutě._
 
-> Leda miluje labutě.
+_Marcel Proust je slepičí prdelka._
 
-> Marcel Proust je slepičí prdelka.
+_King Kong zemřel za naše hříchy._
 
-> King Kong zemřel za naše hříchy.
-
-New York, 1966, 1967
+> New York, 1966, 1967

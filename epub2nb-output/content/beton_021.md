@@ -1,18 +1,17 @@
 ---
+title: Nebe
 contentType: prose
 ---
 
-Nebe
+_Sten tane  
+v tenatech antén.  
+Víc nic. Ani to ne._
 
-> Sten tane  
-> v tenatech antén.  
-> Víc nic. Ani to ne.
+_Sten klenby  
+v tenatech antén  
+tone._
 
-> Sten klenby  
-> v tenatech antén  
-> tone.
-
-> V tenatech antén  
-> se klene  
-> nic  
-> ani netušené.
+_V tenatech antén  
+se klene  
+nic  
+ani netušené._

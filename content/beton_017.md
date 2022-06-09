@@ -1,24 +1,23 @@
 ---
+title: Jersey City
 contentType: prose
 ---
 
-Jersey City
+_Klimaktérium města.  
+Hystericky rozcuchané  
+fabriky bloudí v suchopáru.  
+Doutnající supi loudí  
+játra na kolemjdoucích._
 
-> Klimaktérium města.  
-> Hystericky rozcuchané  
-> fabriky bloudí v suchopáru.  
-> Doutnající supi loudí  
-> játra na kolemjdoucích.
+_Ťukání na stěny  
+v závalu páchnoucích oblaků;  
+čeká se výbuch  
+časované bomby  
+z dávného náletu Marťanů._
 
-> Ťukání na stěny  
-> v závalu páchnoucích oblaků;  
-> čeká se výbuch  
-> časované bomby  
-> z dávného náletu Marťanů.
+_Sbohem._
 
-> Sbohem.
-
-> Jsem vinen dětstvím.  
-> Ztratil jsem hodinky,  
-> co mi babička schovávala  
-> na cestu do světa.
+_Jsem vinen dětstvím.  
+Ztratil jsem hodinky,  
+co mi babička schovávala  
+na cestu do světa._

@@ -1,18 +1,17 @@
 ---
+title: Tvořivé trvání
 contentType: prose
 ---
 
-Tvořivé trvání
+_Pod večerní lampou  
+příjemné rachocení  
+arteriosklerózy._
 
-> Pod večerní lampou  
-> příjemné rachocení  
-> arteriosklerózy.
+          _Za oknem v loňské trávě  
+          láska,  
+          jako převrácený  
+          zahradní stůl,_
 
->           Za oknem v loňské trávě  
->           láska,  
->           jako převrácený  
->           zahradní stůl,
-
->                    na který  
->                    pošetile padá sníh  
->                    — a taje.
+                   _na který  
+                   pošetile padá sníh  
+                   — a taje._

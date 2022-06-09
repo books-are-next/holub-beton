@@ -1,28 +1,27 @@
 ---
+title: Zámek
 contentType: prose
 ---
 
-Zámek
+_Vezmete vlajku,  
+zapíchnete do větru._
 
-> Vezmete vlajku,  
-> zapíchnete do větru.
+_Vezmete drahokam,  
+hodíte za sebe._
 
-> Vezmete drahokam,  
-> hodíte za sebe.
+_Udeříte do strun.  
+     Přiběhne býk s hrbem.  
+Zadujete na tubu.  
+     Vyroste zámek._
 
-> Udeříte do strun.  
->      Přiběhne býk s hrbem.  
-> Zadujete na tubu.  
->      Vyroste zámek.
+_Hrajete dál. Můžete se strhat.  
+Ale zámek se štěpí a rozpadá,  
+býk hoří  
+               a vám  
+usychají rty a ulamují se  
+prsty. Černě rty mumie.  
+Drápaté prsty krysy._
 
-> Hrajete dál. Můžete se strhat.  
-> Ale zámek se štěpí a rozpadá,  
-> býk hoří  
->                a vám  
-> usychají rty a ulamují se  
-> prsty. Černě rty mumie.  
-> Drápaté prsty krysy.
-
-> A to zrovna teď,  
-> když za rohem vystupují  
-> první hosté.
+_A to zrovna teď,  
+když za rohem vystupují  
+první hosté._

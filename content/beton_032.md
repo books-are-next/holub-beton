@@ -1,18 +1,17 @@
 ---
+title: Svoboda
 contentType: prose
 ---
 
-Svoboda
+_V závratné výši  
+na stěně mrakodrapu  
+blankytná vlajka._
 
-> V závratné výši  
-> na stěně mrakodrapu  
-> blankytná vlajka.
+          _Středem ulice  
+          škubavě přijíždí  
+          poliomyelitický hošík  
+          na kolečkových bruslích,_
 
->           Středem ulice  
->           škubavě přijíždí  
->           poliomyelitický hošík  
->           na kolečkových bruslích,
-
->                    odrážeje se  
->                    jen jedinou nohou,  
->                    tou bez protézy.
+                   _odrážeje se  
+                   jen jedinou nohou,  
+                   tou bez protézy._

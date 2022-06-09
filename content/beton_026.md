@@ -1,39 +1,38 @@
 ---
+title: Nápisy na zdech
 contentType: prose
 ---
 
-Nápisy na zdech
+_Sněhurka je negr._
 
-> Sněhurka je negr.
+_Osvoboďte Sokrata!_
 
-> Osvoboďte Sokrata!
+_I paranoici mají reálné nepřátele._
 
-> I paranoici mají reálné nepřátele.
+_Kristus je odpověď. — Ale co byla otázka?_
 
-> Kristus je odpověď. — Ale co byla otázka?
+_Podporujte duševní zdraví nebo vás zabiju._
 
-> Podporujte duševní zdraví nebo vás zabiju.
+_Čelte homosexuální revoluci, noste pytlovitý kalhoty._
 
-> Čelte homosexuální revoluci, noste pytlovitý kalhoty.
+_Miluj svého bližního, ale ať tě nikdo nevidí._
 
-> Miluj svého bližního, ale ať tě nikdo nevidí.
+_Budoucnost patří lítacím talířům._
 
-> Budoucnost patří lítacím talířům.
+_Zítřek se překládá na jindy. — Bůh._
 
-> Zítřek se překládá na jindy. — Bůh.
+_Jsem nekonformní, nosím sako._
 
-> Jsem nekonformní, nosím sako.
+_Spláchni pořádně, New York potřebuje vodu._
 
-> Spláchni pořádně, New York potřebuje vodu.
+_Realita je zmetek._
 
-> Realita je zmetek.
+_Bůh je mrtev. — Nietsche._
 
-> Bůh je mrtev. — Nietsche.
+      _Nietsche je mrtev. — Bůh._
 
->       Nietsche je mrtev. — Bůh.
+_Zastavte svět, já chci vystoupit!_
 
-> Zastavte svět, já chci vystoupit!
+_Přijďte znovu a přineste si síťku na motýly!_
 
-> Přijďte znovu a přineste si síťku na motýly!
-
-New York, 1966, 1967
+> New York, 1966, 1967

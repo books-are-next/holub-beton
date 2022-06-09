@@ -1,41 +1,38 @@
 ---
+title: "Nalezená poezie:Debata o\_Středním Východě,New York"
 contentType: prose
 ---
 
-Nalezená poezie:  
-Debata o Středním Východě,  
-New York
+_Policie umístila  
+na jižní straně 47. ulice  
+protisovětské demonstranty  
+a na severní straně  
+prosovětské demonstranty._
 
-> Policie umístila  
-> na jižní straně 47. ulice  
-> protisovětské demonstranty  
-> a na severní straně  
-> prosovětské demonstranty.
+_Avšak  
+policie si nevěděla rady  
+s Josefem Mlot-Mrozem ze Saalemu, Mass.,  
+který stál v dešti  
+na První Avenui,  
+s americkou vlajkou z falešných kamenů  
+v levé klopě.  
+Držel ceduli s nápisem:_
 
-> Avšak  
-> policie si nevěděla rady  
-> s Josefem Mlot-Mrozem ze Saalemu, Mass.,  
-> který stál v dešti  
-> na První Avenui,  
-> s americkou vlajkou z falešných kamenů  
-> v levé klopě.  
-> Držel ceduli s nápisem:
+          _Židi jsou vrahové.  
+          Komunismus je židovský.  
+          Od začátku do Konce.  
+          Potírejte Komunismus.  
+          Polští Bojovníci za Svobodu, Inc._
 
->           Židi jsou vrahové.  
->           Komunismus je židovský.  
->           Od začátku do Konce.  
->           Potírejte Komunismus.  
->           Polští Bojovníci za Svobodu, Inc.
+_Policejní kapitán,  
+Francis R. Kelly,  
+nejdříve zavedl p. Mlot-Mroze  
+na jižní stranu._
 
-> Policejní kapitán,  
-> Francis R. Kelly,  
-> nejdříve zavedl p. Mlot-Mroze  
-> na jižní stranu.
+_Po krátké konverzaci však  
+policista odcházel  
+potřásaje hlavou a mumlaje,  
+          To tedy nevím, kam  
+          ho zařadit._
 
-> Po krátké konverzaci však  
-> policista odcházel  
-> potřásaje hlavou a mumlaje,  
->           To tedy nevím, kam  
->           ho zařadit.
-
-N. Y. Times, červen 67
+> N. Y. Times, červen 67

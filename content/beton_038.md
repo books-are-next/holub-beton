@@ -3,9 +3,15 @@ title: Ariadna
 contentType: prose
 ---
 
+<section>
+
 _Původně je jen pláň,  
 bezmyšlenkovité  
 lísání země._
+
+</section>
+
+<section>
 
 _Tu se za obzorem  
 vynoří Ariadna,  
@@ -16,6 +22,10 @@ odvíjet
 nit,  
 nit,_
 
+</section>
+
+<section>
+
 _nit  
 běží. A kolem niti  
 z lysé pustiny, hle,  
@@ -25,15 +35,29 @@ ozvěny, jeskyně, nory a vývěry,
 vyrůstá labyrint kolem niti  
 a zaujímá vše, i obzor, i Ariadnu._
 
+</section>
+
+<section>
+
 _A ponořená hora rodí myš  
 a myš se stává  
 Minótaurem._
+
+</section>
+
+<section>
 
 _Ze všech konců  
 ozývá se řev. A úzkost  
 lítá chodbami jako kuře bez hlavy._
 
+</section>
+
+<section>
+
 _Tu Ariadna rychle  
 navíjí nit zpátky, ale to už  
 většinou  
 nejde._
+
+</section>

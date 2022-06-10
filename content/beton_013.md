@@ -3,6 +3,8 @@ title: Stanice podzemní dráhy
 contentType: prose
 ---
 
+<section>
+
 _Dnes ve večerních hodinách     pan Howard  
 T. Lewis,  
 neznámého místa pobytu,     zasmušilý  
@@ -27,6 +29,10 @@ muž v hnědém klobouku,     zasmušilý
 a unavený,  
 s obličejem, který byl obličejem Howarda  
 T. Lewise._
+
+</section>
+
+<section>
 
 _V té chvíli     turniketem z ohmataných  
 dřevěných špalků     procházela žena,  
@@ -54,6 +60,10 @@ vsávaly nápis     Osmá Av.     Osmá Av.
 Osmá Av.  
 se sílícím hukotem._
 
+</section>
+
+<section>
+
 _Když odjel vlak,     nahodilý vír prázdna  
 zvedal listy novin,     kde se psalo  
 o neznámém  
@@ -61,3 +71,5 @@ místě pobytu,     osudu     a identifikaci
 člověka     v šedivém svrchníku a hnědém  
 klobouku,  
 zasmušilého a unaveného._
+
+</section>

@@ -3,12 +3,18 @@ title: Bowery
 contentType: prose
 ---
 
+<section>
+
 _Bez tváře a beze jména,  
 pokud Bowery není tvář a Bowery není jméno,  
 kymácí se na okraji chodníku  
 malovaného Breughelem a Boschem  
 a příšery rybích těl na komářích nohou  
 mu přisluhují._
+
+</section>
+
+<section>
 
 _Poznává, že je vlastně orlosupem  
                                     s nahými křídly,  
@@ -39,13 +45,29 @@ a je to jako smluvené znamení brooklynských
 poznává, že je vlastně zárodek, nezrozený  
                                      zárodek bez pokračování,_
 
+</section>
+
+<section>
+
 _hadry se vrší kolem  
 jako barikáda z těl padlých předevčírem,_
+
+</section>
+
+<section>
 
 _hadry se vrší jako zátaras,  
 kry z černého uvolněného ledu,_
 
+</section>
+
+<section>
+
 _hadry se vrší jako hranice pro kacíře_
+
+</section>
+
+<section>
 
 _a on, nahý, jako larva,  
 ve které shnil brouk,  
@@ -55,10 +77,20 @@ beznehtými tupými prsty
 na břiše a na zádech  
 hledá zip, zip na kůži,_
 
+</section>
+
+<section>
+
 _snaží se svléknout kůži,  
 nesmyslnou lidskou kůži,  
 smradlavou zvířecí kůži,  
 ale zip se zadrhl v masu._
 
+</section>
+
+<section>
+
 _A tak řve, jen tak řve do uší Bowery,  
 do uší Bowery zalepených krví duchů._
+
+</section>

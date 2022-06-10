@@ -3,7 +3,9 @@ title: Nokturno
 contentType: prose
 ---
 
-                                                                     _K ránu  
+<section>
+
+_K ránu  
 tlouklo na dveře. Otevřel jsem. Byla to  
 sviluška zvíci obláčkového leoparda.  
      Ukazovala  
@@ -33,6 +35,12 @@ a u moře už hořelo; v plamenných děrách
 se vyjevené obličeje pakoní a smutnic,  
 bílkovité a hnilé, a mizely. A řvali sumýši._
 
+</section>
+
+<section>
+
 _Zavřel jsem. — Co je, ptali se naši. — Nic,  
 řekl jsem, všecko v pořádku. Bylo slyšet,  
 jak pod piánem klidně oddychuje harpyje._
+
+</section>

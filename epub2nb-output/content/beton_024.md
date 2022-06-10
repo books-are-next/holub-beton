@@ -3,6 +3,8 @@ title: Rockefellerovo centrum
 contentType: prose
 ---
 
+<section>
+
 _Podivný paranoidní stařec  
 (jak si představujete  
 Walta Whitmana?)  
@@ -20,7 +22,13 @@ kráčí kolmo vzhůru,
 šedesáté osmé poschodí,  
 kráčí kolmo vzhůru_
 
+</section>
+
+<section>
+
 _a ocitnuv se v nahodilém blankytu,  
 zlehka kyne a s velmi neslušným slovem  
 mizí, k velké úlevě  
 veškeré poesie._
+
+</section>

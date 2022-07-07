@@ -19,9 +19,9 @@ a rasovou harmonii._
 _Šaty slečny Johnsonové,  
 americké výroby,  
 byly v barvě  
-                       bílé  
+            bílé  
 a  
-                       čokoládově hnědé  
+            čokoládově hnědé  
 a z těžké bavlny._
 
 </section>

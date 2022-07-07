@@ -22,8 +22,8 @@ blankytná vlajka._
 
 <section>
 
-                   _odrážeje se  
-                   jen jedinou nohou,  
-                   tou bez protézy._
+            _odrážeje se  
+            jen jedinou nohou,  
+            tou bez protézy._
 
 </section>

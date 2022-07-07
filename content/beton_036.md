@@ -31,7 +31,7 @@ Zadujete na tubu.
 _Hrajete dál. Můžete se strhat.  
 Ale zámek se štěpí a rozpadá,  
 býk hoří  
-               a vám  
+            a vám  
 usychají rty a ulamují se  
 prsty. Černě rty mumie.  
 Drápaté prsty krysy._

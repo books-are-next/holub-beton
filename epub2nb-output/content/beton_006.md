@@ -100,7 +100,7 @@ bude se hrát něco bez začátku —_
 
 _(A upozorňuji vás,  
 že jste sám, na kameni sám,  
-                                          jako  
+            jako  
 prst… prst…  
 prsteníček)_
 

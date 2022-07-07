@@ -22,8 +22,8 @@ arteriosklerózy._
 
 <section>
 
-                   _na který  
-                   pošetile padá sníh  
-                   — a taje._
+            _na který  
+            pošetile padá sníh  
+            — a taje._
 
 </section>

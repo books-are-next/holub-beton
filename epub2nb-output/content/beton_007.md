@@ -12,8 +12,8 @@ proniká skleněnou skříní
 Island Parku.  
 A na milnících ulpívá  
 tón Fis  
-              Gis  
-                     Eis,  
+            Gis  
+            Eis,  
 černá dívčí tvář moře  
 se sklání nad námi,  
 klavír krvácí tichou  

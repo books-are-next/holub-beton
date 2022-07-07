@@ -29,7 +29,7 @@ nerozvětveného._
 _Blížíme se pólu  
 s rukama na volantu  
 a v srdci  
-                s hrůzou  
+            s hrůzou  
 létacích ryb, které  
 ne a ne vzlétnout._
 

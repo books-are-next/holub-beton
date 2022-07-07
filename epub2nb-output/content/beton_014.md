@@ -17,33 +17,33 @@ mu přisluhují._
 <section>
 
 _Poznává, že je vlastně orlosupem  
-                                    s nahými křídly,  
+            s nahými křídly,  
 svléká zduřelý kabát a hází jej do jízdní dráhy.  
 Je to kabát farmáře z Kansasu.  
 Poznává, že je vlastně lodí  
-                                    s očima Pallas Athény,  
+            s očima Pallas Athény,  
 svléká druhý, hubený kabát a hází jej  
-                                    do jízdní dráhy.  
+            do jízdní dráhy.  
 Je to kabát cesťáka z Richmondu.  
 Poznává, že vlastně je psicí  
-                                    se třemi jazyky,  
+            se třemi jazyky,  
 svléká bundu a hází ji do jízdní dráhy.  
 Je to bunda oceláře z Pittsburgu.  
 Poznává, že je vlastně průhledným vejcem  
-                                    s hadem uvnitř,  
+            s hadem uvnitř,  
 svléká děravé sako a hází je do jízdní dráhy.  
 Je to sako umyvače nádobí v Des Moines.  
 Poznává, že je vlastně ďábelským strojem  
-                                    s cínovými vojáčky,  
+            s cínovými vojáčky,  
 strhává svetr a vrhá jej do jízdní dráhy.  
 Je to jako potřísněná vlajka česáčů ze Salinas.  
 Poznává, že je vlastně tlamou upíra  
-                                    s krvavým stínem,  
+            s krvavým stínem,  
 strhává košili, mává kalhoty a trikem  
 a je to jako smluvené znamení brooklynských  
-                                     vykradačů aut,  
+            vykradačů aut,  
 poznává, že je vlastně zárodek, nezrozený  
-                                     zárodek bez pokračování,_
+            zárodek bez pokračování,_
 
 </section>
 

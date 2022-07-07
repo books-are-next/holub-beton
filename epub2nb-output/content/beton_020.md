@@ -43,7 +43,7 @@ Sperma z betonu.     Vlasy z betonu._
 
 _A když se pohladíme,     drolí se písek.  
 Je třeba  
-                 lepšího betonu.  
+            lepšího betonu.  
 Krve už bylo dost._
 
 </section>

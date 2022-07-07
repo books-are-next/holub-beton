@@ -8,7 +8,7 @@ contentType: prose
 _Skákali. Dupali.  
 Scvrkli se. Prolezli sítnicí.  
 Zduřeli. Uvázli  
-               v oznamovací větě._
+            v oznamovací větě._
 
 </section>
 
@@ -25,7 +25,7 @@ a vlezli si do něj._
 _Vykvetli. Zvadli.  
 Lítali v dýni a padali po vlasu.  
 Takže  
-               došli ke kořenům._
+            došli ke kořenům._
 
 </section>
 
@@ -35,7 +35,7 @@ _Zazvonili. Zhasli.
 Uhnuli před oponou.  
 Sežrali rolničky.  
 Pročež  
-               byli jmenováni_
+            byli jmenováni_
 
 </section>
 

@@ -1,11 +1,11 @@
 ---
 title: Rockefellerovo centrum
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Podivný paranoidní stařec  
+Podivný paranoidní stařec  
 (jak si představujete  
 Walta Whitmana?)  
 přechází na červenou  
@@ -20,15 +20,15 @@ kráčí kolmo vzhůru,
 aniž by nahlížel do oken,  
 kráčí kolmo vzhůru,  
 šedesáté osmé poschodí,  
-kráčí kolmo vzhůru_
+kráčí kolmo vzhůru
 
 </section>
 
 <section>
 
-_a ocitnuv se v nahodilém blankytu,  
+a ocitnuv se v nahodilém blankytu,  
 zlehka kyne a s velmi neslušným slovem  
 mizí, k velké úlevě  
-veškeré poesie._
+veškeré poesie.
 
 </section>

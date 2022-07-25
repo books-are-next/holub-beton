@@ -1,87 +1,87 @@
 ---
 title: Býčí zápasy
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Někdo pobíhá,  
+Někdo pobíhá,  
 někdo jen větří,  
-někdo hrabe do země, ale je tvrdá._
+někdo hrabe do země, ale je tvrdá.
 
 </section>
 
 <section>
 
-_Červené hadry lítají kolem  
+Červené hadry lítají kolem  
 a pikador na vypolštářované herce  
 zasazuje první ránu  
-slabomyslným kopím._
+slabomyslným kopím.
 
 </section>
 
 <section>
 
-_Černá krev kypí mezi lopatkami._
+Černá krev kypí mezi lopatkami.
 
 </section>
 
 <section>
 
-_Hrudník k prasknutí,  
+Hrudník k prasknutí,  
 jazyk vyplazený k hlubinám.  
-Kopyta hrabou o vlastní újmě._
+Kopyta hrabou o vlastní újmě.
 
 </section>
 
 <section>
 
-_Tři páry banderillos v zádech.  
+Tři páry banderillos v zádech.  
 A matador už táhne meč  
-přes brlení._
+přes brlení.
 
 </section>
 
 <section>
 
-_A tu se někdo (zbrocený, vyčerpaný)  
+A tu se někdo (zbrocený, vyčerpaný)  
 zastaví a volá:  
 Pojďte, nechme toho,  
 pojďte, nechme toho,  
 pojďte za řeku a mezi stromy,  
 pojďte za řeku a mezi stromy,  
 nechme těch červených hadrů,  
-pojďme jinam,_
+pojďme jinam,
 
 </section>
 
 <section>
 
-_tak volá,  
+tak volá,  
 anebo sípá,  
 anebo šeptá,  
 a bariéry řvou a  
-nikdo nerozumí, protože_
+nikdo nerozumí, protože
 
 </section>
 
 <section>
 
-_všichni jsou na tom stejně,_
+všichni jsou na tom stejně,
 
 </section>
 
 <section>
 
-_černý a rudý býk padne  
+černý a rudý býk padne  
 a bude odtažen  
 a bude odtažen  
-a bude odtažen,_
+a bude odtažen,
 
 </section>
 
 <section>
 
-_aniž by pochopil běh světa._
+aniž by pochopil běh světa.
 
 </section>

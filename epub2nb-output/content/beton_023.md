@@ -1,45 +1,45 @@
 ---
 title: East River Drive
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Břitva asfaltu obtahovaná  
-staroslavným řemenem řeky._
+Břitva asfaltu obtahovaná  
+staroslavným řemenem řeky.
 
 </section>
 
 <section>
 
-_Je na déšť.  
+Je na déšť.  
 Unášejí Persefonu  
 kus po kuse  
-v kufrech._
+v kufrech.
 
 </section>
 
 <section>
 
-_Třaslavé prsty ulic  
+Třaslavé prsty ulic  
 plazí se sem  
 v marném úsilí  
 dotknout se  
-bílého těla._
+bílého těla.
 
 </section>
 
 <section>
 
-_Auta, řinoucí se slzy  
+Auta, řinoucí se slzy  
 pokryté slzami, pokryté  
 slzami, unášejí  
-Persefonu_
+Persefonu
 
 </section>
 
 <section>
 
-_řičící smíchem._
+řičící smíchem.
 
 </section>

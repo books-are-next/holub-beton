@@ -1,120 +1,120 @@
 ---
 title: Nápisy na zdech
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_My jsme ty lidi, co nás před nimi rodiče  
-varovali._
+My jsme ty lidi, co nás před nimi rodiče  
+varovali.
 
 </section>
 
 <section>
 
-_Lehni si, myslím, že tě miluji._
+Lehni si, myslím, že tě miluji.
 
 </section>
 
 <section>
 
-_Asijská chřipka Asiatům._
+Asijská chřipka Asiatům.
 
 </section>
 
 <section>
 
-_Šetři vodu, sprchuj se s přítelem!_
+Šetři vodu, sprchuj se s přítelem!
 
   
   
 
-_Neurózy jsou žlutý,_
+Neurózy jsou žlutý,
 
 </section>
 
 <section>
 
-_melanchólie nachový._
+melanchólie nachový.
 
 </section>
 
 <section>
 
-_Já jsem schizofrenik._
+Já jsem schizofrenik.
 
 </section>
 
 <section>
 
-_A co jste Vy?_
+A co jste Vy?
 
-_Smrt je způsob, jakým vás příroda_
-
-</section>
-
-<section>
-
-_upozorňuje, abyste zpomalili._
+Smrt je způsob, jakým vás příroda
 
 </section>
 
 <section>
 
-_Zakažte Bombu, zachraňte svět pro_
+upozorňuje, abyste zpomalili.
 
 </section>
 
 <section>
 
-_konvenční válku!_
+Zakažte Bombu, zachraňte svět pro
 
 </section>
 
 <section>
 
-_Bůh není mrtev, jen nemůže najít_
+konvenční válku!
 
 </section>
 
 <section>
 
-_parkovací místo._
+Bůh není mrtev, jen nemůže najít
 
 </section>
 
 <section>
 
-_Kde je Lee Harvey Oswald teď,_
+parkovací místo.
 
 </section>
 
 <section>
 
-_když ho skutečně potřebujeme?_
+Kde je Lee Harvey Oswald teď,
+
+</section>
+
+<section>
+
+když ho skutečně potřebujeme?
 
   
   
 
-_Zrušte duševní rovnováhu!_
+Zrušte duševní rovnováhu!
 
 </section>
 
 <section>
 
-_Leda miluje labutě._
+Leda miluje labutě.
 
 </section>
 
 <section>
 
-_Marcel Proust je slepičí prdelka._
+Marcel Proust je slepičí prdelka.
 
 </section>
 
 <section>
 
-_King Kong zemřel za naše hříchy._
+King Kong zemřel za naše hříchy.
 
 </section>
 

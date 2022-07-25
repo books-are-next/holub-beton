@@ -1,99 +1,99 @@
 ---
 title: Nápisy na zdech
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sněhurka je negr._
+Sněhurka je negr.
 
 </section>
 
 <section>
 
-_Osvoboďte Sokrata!_
+Osvoboďte Sokrata!
 
 </section>
 
 <section>
 
-_I paranoici mají reálné nepřátele._
+I paranoici mají reálné nepřátele.
 
 </section>
 
 <section>
 
-_Kristus je odpověď. — Ale co byla otázka?_
+Kristus je odpověď. — Ale co byla otázka?
 
   
   
 
-_Podporujte duševní zdraví nebo vás zabiju._
+Podporujte duševní zdraví nebo vás zabiju.
 
 </section>
 
 <section>
 
-_Čelte homosexuální revoluci, noste pytlovitý kalhoty._
+Čelte homosexuální revoluci, noste pytlovitý kalhoty.
 
 </section>
 
 <section>
 
-_Miluj svého bližního, ale ať tě nikdo nevidí._
+Miluj svého bližního, ale ať tě nikdo nevidí.
 
 </section>
 
 <section>
 
-_Budoucnost patří lítacím talířům._
+Budoucnost patří lítacím talířům.
 
 </section>
 
 <section>
 
-_Zítřek se překládá na jindy. — Bůh._
+Zítřek se překládá na jindy. — Bůh.
 
 </section>
 
 <section>
 
-_Jsem nekonformní, nosím sako._
+Jsem nekonformní, nosím sako.
 
 </section>
 
 <section>
 
-_Spláchni pořádně, New York potřebuje vodu._
+Spláchni pořádně, New York potřebuje vodu.
 
 </section>
 
 <section>
 
-_Realita je zmetek._
+Realita je zmetek.
 
   
   
 
-_Bůh je mrtev. — Nietsche._
+Bůh je mrtev. — Nietsche.
 
 </section>
 
 <section>
 
-      _Nietsche je mrtev. — Bůh._
+      Nietsche je mrtev. — Bůh.
 
 </section>
 
 <section>
 
-_Zastavte svět, já chci vystoupit!_
+Zastavte svět, já chci vystoupit!
 
 </section>
 
 <section>
 
-_Přijďte znovu a přineste si síťku na motýly!_
+Přijďte znovu a přineste si síťku na motýly!
 
 </section>
 

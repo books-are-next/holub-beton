@@ -1,22 +1,22 @@
 ---
 title: Bowery
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Bez tváře a beze jména,  
+Bez tváře a beze jména,  
 pokud Bowery není tvář a Bowery není jméno,  
 kymácí se na okraji chodníku  
 malovaného Breughelem a Boschem  
 a příšery rybích těl na komářích nohou  
-mu přisluhují._
+mu přisluhují.
 
 </section>
 
 <section>
 
-_Poznává, že je vlastně orlosupem  
+Poznává, že je vlastně orlosupem  
             s nahými křídly,  
 svléká zduřelý kabát a hází jej do jízdní dráhy.  
 Je to kabát farmáře z Kansasu.  
@@ -43,54 +43,54 @@ strhává košili, mává kalhoty a trikem
 a je to jako smluvené znamení brooklynských  
             vykradačů aut,  
 poznává, že je vlastně zárodek, nezrozený  
-            zárodek bez pokračování,_
+            zárodek bez pokračování,
 
 </section>
 
 <section>
 
-_hadry se vrší kolem  
-jako barikáda z těl padlých předevčírem,_
+hadry se vrší kolem  
+jako barikáda z těl padlých předevčírem,
 
 </section>
 
 <section>
 
-_hadry se vrší jako zátaras,  
-kry z černého uvolněného ledu,_
+hadry se vrší jako zátaras,  
+kry z černého uvolněného ledu,
 
 </section>
 
 <section>
 
-_hadry se vrší jako hranice pro kacíře_
+hadry se vrší jako hranice pro kacíře
 
 </section>
 
 <section>
 
-_a on, nahý, jako larva,  
+a on, nahý, jako larva,  
 ve které shnil brouk,  
 jako potrat, jak výkal,  
 z posledních sil  
 beznehtými tupými prsty  
 na břiše a na zádech  
-hledá zip, zip na kůži,_
+hledá zip, zip na kůži,
 
 </section>
 
 <section>
 
-_snaží se svléknout kůži,  
+snaží se svléknout kůži,  
 nesmyslnou lidskou kůži,  
 smradlavou zvířecí kůži,  
-ale zip se zadrhl v masu._
+ale zip se zadrhl v masu.
 
 </section>
 
 <section>
 
-_A tak řve, jen tak řve do uší Bowery,  
-do uší Bowery zalepených krví duchů._
+A tak řve, jen tak řve do uší Bowery,  
+do uší Bowery zalepených krví duchů.
 
 </section>

@@ -1,49 +1,49 @@
 ---
 title: Plavba přes Atlantik
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je to trapné,  
+Je to trapné,  
 ale je ještě příliš mnoho vody,  
 příliš mnoho vzduchu  
 a příliš mnoho nekonečna  
-hned za klandrem._
+hned za klandrem.
 
 </section>
 
 <section>
 
-_V prosolené dálce  
+V prosolené dálce  
 vyplněné vlnami vlnami vlnami  
 (a vlnami a vlnami)  
 se zjevuje za soumraku  
 starozákonní oráč a pluh  
-a táhne brázdu za brázdou._
+a táhne brázdu za brázdou.
 
 </section>
 
 <section>
 
-_A jediná satba daleko široko  
+A jediná satba daleko široko  
 v neklidné štěrbině mezi nebem a mořem  
 je tato loď a naše  
-zvolna přežvykované srdce_
+zvolna přežvykované srdce
 
 </section>
 
 <section>
 
-_a nezbývá tedy než trvat  
+a nezbývá tedy než trvat  
 od začátku času  
-do konce času,_
+do konce času,
 
 </section>
 
 <section>
 
-_ačkoli to je  
-dokonce velmi trapné._
+ačkoli to je  
+dokonce velmi trapné.
 
 </section>

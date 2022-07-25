@@ -1,47 +1,47 @@
 ---
 title: Zámek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vezmete vlajku,  
-zapíchnete do větru._
+Vezmete vlajku,  
+zapíchnete do větru.
 
 </section>
 
 <section>
 
-_Vezmete drahokam,  
-hodíte za sebe._
+Vezmete drahokam,  
+hodíte za sebe.
 
 </section>
 
 <section>
 
-_Udeříte do strun.  
+Udeříte do strun.  
      Přiběhne býk s hrbem.  
 Zadujete na tubu.  
-     Vyroste zámek._
+     Vyroste zámek.
 
 </section>
 
 <section>
 
-_Hrajete dál. Můžete se strhat.  
+Hrajete dál. Můžete se strhat.  
 Ale zámek se štěpí a rozpadá,  
 býk hoří  
             a vám  
 usychají rty a ulamují se  
 prsty. Černě rty mumie.  
-Drápaté prsty krysy._
+Drápaté prsty krysy.
 
 </section>
 
 <section>
 
-_A to zrovna teď,  
+A to zrovna teď,  
 když za rohem vystupují  
-první hosté._
+první hosté.
 
 </section>

@@ -1,49 +1,49 @@
 ---
 title: Beton
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Šedivá vulkanická hvězda:  
+Šedivá vulkanická hvězda:  
 stíny z betonu,     zem z betonu,  
 nebe z betonu,     stromy z betonu,  
-houpačky z betonu,     něha z betonu._
+houpačky z betonu,     něha z betonu.
 
 </section>
 
 <section>
 
-_Několik odřených pimprlat  
+Několik odřených pimprlat  
 hraje svůj kus.     Kašpárek za Draka,  
 Drak za Kašpárka.     S chřeštěním  
-padají andělé._
+padají andělé.
 
 </section>
 
 <section>
 
-_Konsulové v ornátech     u betonových bran  
+Konsulové v ornátech     u betonových bran  
 čekají na barbary.     Barbarů  
 však už není.  
 Jen kamenný komtur  
 zvedá náhrobek     naší kůže  
-a skučí     v stojatých tmách._
+a skučí     v stojatých tmách.
 
 </section>
 
 <section>
 
-_Stěny z betonu.     Myšlenky z betonu.  
-Sperma z betonu.     Vlasy z betonu._
+Stěny z betonu.     Myšlenky z betonu.  
+Sperma z betonu.     Vlasy z betonu.
 
 </section>
 
 <section>
 
-_A když se pohladíme,     drolí se písek.  
+A když se pohladíme,     drolí se písek.  
 Je třeba  
             lepšího betonu.  
-Krve už bylo dost._
+Krve už bylo dost.
 
 </section>

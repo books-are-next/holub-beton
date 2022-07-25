@@ -1,55 +1,55 @@
 ---
 title: Demonologie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Syté svištění džinů po asfaltech,  
+Syté svištění džinů po asfaltech,  
 bílé talíře očí,  
 červené pokřižování v patách,  
-odtud až na věčnost._
+odtud až na věčnost.
 
 </section>
 
 <section>
 
-_Požární vlkodlaci s vytím  
+Požární vlkodlaci s vytím  
 vtrhávající do měst  
-ledva odrostlých._
+ledva odrostlých.
 
 </section>
 
 <section>
 
-_Hurónsky duch úspěchu  
+Hurónsky duch úspěchu  
 na gumové vzpružině,  
 odráží se od tučné země,  
 kmitá po písmenech,  
-plácá se po střechách._
+plácá se po střechách.
 
 </section>
 
 <section>
 
-_A hvíždálkovitý plivník maléru  
-na špagátku táhne za námi._
+A hvíždálkovitý plivník maléru  
+na špagátku táhne za námi.
 
 </section>
 
 <section>
 
-_Všude je toho plno,  
+Všude je toho plno,  
 v jiskření kinoteátrů,  
 v bučení vyvalených beden.  
 Nejvyšší čas pro licenci  
-na konání drobných zázraků._
+na konání drobných zázraků.
 
 </section>
 
 <section>
 
-_A doma máme každý takovou  
+A doma máme každý takovou  
 některou  
 malou škatulku,  
 roste jako kredenc  
@@ -57,14 +57,14 @@ a zase se zcvrkává
 jako očičko mrtvé myši,  
 něco v ní šátrá,  
 nebo pracuje k zralosti,  
-nebo plodně mlčí,_
+nebo plodně mlčí,
 
 </section>
 
 <section>
 
-_ale bojíme se ji otevřít,  
+ale bojíme se ji otevřít,  
 protože mockrát už v ní  
-nebylo nic._
+nebylo nic.
 
 </section>

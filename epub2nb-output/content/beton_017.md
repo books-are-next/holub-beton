@@ -1,39 +1,39 @@
 ---
 title: Jersey City
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Klimaktérium města.  
+Klimaktérium města.  
 Hystericky rozcuchané  
 fabriky bloudí v suchopáru.  
 Doutnající supi loudí  
-játra na kolemjdoucích._
+játra na kolemjdoucích.
 
 </section>
 
 <section>
 
-_Ťukání na stěny  
+Ťukání na stěny  
 v závalu páchnoucích oblaků;  
 čeká se výbuch  
 časované bomby  
-z dávného náletu Marťanů._
+z dávného náletu Marťanů.
 
 </section>
 
 <section>
 
-_Sbohem._
+Sbohem.
 
 </section>
 
 <section>
 
-_Jsem vinen dětstvím.  
+Jsem vinen dětstvím.  
 Ztratil jsem hodinky,  
 co mi babička schovávala  
-na cestu do světa._
+na cestu do světa.
 
 </section>

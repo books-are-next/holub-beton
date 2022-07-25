@@ -1,73 +1,73 @@
 ---
 title: Planeta
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přistání modulu bylo spíš havarijní.  
+Přistání modulu bylo spíš havarijní.  
 A na planetě — jen skály spečené  
-a troud, života nevykřesat._
+a troud, života nevykřesat.
 
 </section>
 
 <section>
 
-_Dunění._
+Dunění.
 
 </section>
 
 <section>
 
-_První však stráže byly zavražděny.  
+První však stráže byly zavražděny.  
 Mrtvoly zohavené ranami tesáků  
 zbytečně pohřbívali. Z kamenných hrobů  
 těla mizela hned za černého dne  
-a nazítří pak napadala živé._
+a nazítří pak napadala živé.
 
 </section>
 
 <section>
 
-_Tu vytušili, že princip jakýsi,  
+Tu vytušili, že princip jakýsi,  
 a s duchem upírů, zde čeká na těla,  
 a mozky, myšlenky, aby jich užil  
 k cílům, jež jak tma, jak spin, jak smích  
-se vymykají všemu._
+se vymykají všemu.
 
 </section>
 
 <section>
 
-_A další zadáveni byli, a další  
+A další zadáveni byli, a další  
 zohavení mrtví číhali na živé.  
 Až posléze nebylo jasno, kdo  
-ještě živ je původním životem._
+ještě živ je původním životem.
 
 </section>
 
 <section>
 
-_Planeta stála jako vytí vlků  
-v bezčasu zkamenělé._
+Planeta stála jako vytí vlků  
+v bezčasu zkamenělé.
 
 </section>
 
 <section>
 
-_Nemělo smysl stavěti se kraby.  
+Nemělo smysl stavěti se kraby.  
 Věděli, a ono vědělo to skrze ně.  
 Spravili modul a vyrazili k Zemi.  
-Snad ještě lidi, snad i upíři._
+Snad ještě lidi, snad i upíři.
 
 </section>
 
 <section>
 
-_A není zpráv, zda vůbec přistáli.  
+A není zpráv, zda vůbec přistáli.  
 A není zpráv, co vůbec přistálo tu.  
 Jsou snad jen  
 příznaky. A dunění.  
-A divná činnost mrtvých idiotů._
+A divná činnost mrtvých idiotů.
 
 </section>

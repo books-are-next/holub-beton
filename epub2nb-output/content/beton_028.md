@@ -1,59 +1,59 @@
 ---
 title: "Weekend v\_Long Beach"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_De facto je to ostrov.  
+De facto je to ostrov.  
 V dálce se svíjí Manhattan  
 v magnetickém poli.  
 Stratosféra cezená tryskami.  
 V přízemí drobné výbuchy  
-Ballantine Beer._
+Ballantine Beer.
 
 </section>
 
 <section>
 
-_Z moře zvolna vystupuje  
+Z moře zvolna vystupuje  
 nahý déšť  
 a neděle, jako pandémie,  
 jako morová rána,  
 jako krvavý kamión  
 s nápisem Kárma, nejlepší  
-na světě._
+na světě.
 
 </section>
 
 <section>
 
-_Věčná naděje, že vlečný vůz  
+Věčná naděje, že vlečný vůz  
 pojede jinam.  
 Věčná cigareta hořící z obou konců,  
 zápalná oběť za figury  
-v matovém postavení._
+v matovém postavení.
 
 </section>
 
 <section>
 
-_V noci pak duše,  
+V noci pak duše,  
 jen tak nalehko, ve fuseklích,  
 přistupuje na dohmat  
 a něco praví;  
-ale není ji slyšet._
+ale není ji slyšet.
 
 </section>
 
 <section>
 
-_Je příliš ticho._
+Je příliš ticho.
 
 </section>
 
 <section>
 
-_De facto všecko je ostrov._
+De facto všecko je ostrov.
 
 </section>

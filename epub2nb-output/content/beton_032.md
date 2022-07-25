@@ -1,29 +1,29 @@
 ---
 title: Svoboda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V závratné výši  
+V závratné výši  
 na stěně mrakodrapu  
-blankytná vlajka._
+blankytná vlajka.
 
 </section>
 
 <section>
 
-          _Středem ulice  
+          Středem ulice  
           škubavě přijíždí  
           poliomyelitický hošík  
-          na kolečkových bruslích,_
+          na kolečkových bruslích,
 
 </section>
 
 <section>
 
-            _odrážeje se  
+            odrážeje se  
             jen jedinou nohou,  
-            tou bez protézy._
+            tou bez protézy.
 
 </section>

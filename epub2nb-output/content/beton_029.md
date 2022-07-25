@@ -1,36 +1,36 @@
 ---
 title: Noc
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Noc jako nemoc netopýrů  
+Noc jako nemoc netopýrů  
 šramotí ve větvích.  
 Obytné zvony medus plynou  
-v Magnolia Boulevard._
+v Magnolia Boulevard.
 
 </section>
 
 <section>
 
-_Jsme protinožci.  
-Chodíme po rukou._
+Jsme protinožci.  
+Chodíme po rukou.
 
 </section>
 
 <section>
 
-_Automatické kropiče dští  
+Automatické kropiče dští  
 vodu na pažity,  
-jako kdyby byla Země._
+jako kdyby byla Země.
 
 </section>
 
 <section>
 
-_Je však jen axiom Země.  
+Je však jen axiom Země.  
 Axiom domova  
-se slzami v oknech._
+se slzami v oknech.
 
 </section>

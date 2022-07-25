@@ -1,0 +1,781 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Beton",
+  "author": "Miroslav Holub",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "holub-beton-9b43b3d",
+  "revision": "9b43b3d",
+  "readingOrder": [
+    "promo.html",
+    "beton_005.html",
+    "beton_006.html",
+    "beton_007.html",
+    "beton_008.html",
+    "beton_009.html",
+    "beton_010.html",
+    "beton_011.html",
+    "beton_012.html",
+    "beton_013.html",
+    "beton_014.html",
+    "beton_015.html",
+    "beton_016.html",
+    "beton_017.html",
+    "beton_018.html",
+    "beton_019.html",
+    "beton_020.html",
+    "beton_021.html",
+    "beton_022.html",
+    "beton_023.html",
+    "beton_024.html",
+    "beton_025.html",
+    "beton_026.html",
+    "beton_027.html",
+    "beton_028.html",
+    "beton_029.html",
+    "beton_030.html",
+    "beton_031.html",
+    "beton_032.html",
+    "beton_033.html",
+    "beton_034.html",
+    "beton_035.html",
+    "beton_036.html",
+    "beton_037.html",
+    "beton_038.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 25 2022 11:41:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658749268580
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "beton_005.html",
+      "toc": []
+    },
+    {
+      "title": "Plavba přes Atlantik",
+      "file": "beton_005.html",
+      "words": 83,
+      "chars": 457,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "beton_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Plavba přes Atlantik",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hory sv. Vavřince,polární záře",
+      "file": "beton_006.html",
+      "words": 161,
+      "chars": 901,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 2,
+      "prev": "beton_005.html",
+      "next": "beton_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hory sv. Vavřince,polární záře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Amerika",
+      "file": "beton_007.html",
+      "words": 41,
+      "chars": 242,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 3,
+      "prev": "beton_006.html",
+      "next": "beton_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Amerika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Van Wyck Expressway",
+      "file": "beton_008.html",
+      "words": 48,
+      "chars": 290,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 4,
+      "prev": "beton_007.html",
+      "next": "beton_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Van Wyck Expressway",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11.30 v noci, Far Rockaway",
+      "file": "beton_009.html",
+      "words": 47,
+      "chars": 250,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 5,
+      "prev": "beton_008.html",
+      "next": "beton_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11.30 v noci, Far Rockaway",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nápisy na zdech",
+      "file": "beton_010.html",
+      "words": 95,
+      "chars": 572,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 6,
+      "prev": "beton_009.html",
+      "next": "beton_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nápisy na zdech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "První mráz",
+      "file": "beton_011.html",
+      "words": 108,
+      "chars": 777,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 7,
+      "prev": "beton_010.html",
+      "next": "beton_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "První mráz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pantheismus",
+      "file": "beton_012.html",
+      "words": 47,
+      "chars": 253,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 8,
+      "prev": "beton_011.html",
+      "next": "beton_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pantheismus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stanice podzemní dráhy",
+      "file": "beton_013.html",
+      "words": 251,
+      "chars": 1685,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 9,
+      "prev": "beton_012.html",
+      "next": "beton_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stanice podzemní dráhy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bowery",
+      "file": "beton_014.html",
+      "words": 273,
+      "chars": 1528,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 10,
+      "prev": "beton_013.html",
+      "next": "beton_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bowery",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Harlem",
+      "file": "beton_015.html",
+      "words": 43,
+      "chars": 245,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 11,
+      "prev": "beton_014.html",
+      "next": "beton_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Harlem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Brooklynský hřbitov",
+      "file": "beton_016.html",
+      "words": 60,
+      "chars": 400,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 12,
+      "prev": "beton_015.html",
+      "next": "beton_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Brooklynský hřbitov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jersey City",
+      "file": "beton_017.html",
+      "words": 47,
+      "chars": 308,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 13,
+      "prev": "beton_016.html",
+      "next": "beton_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jersey City",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nalezená poezie:Debata o Středním Východě,New York",
+      "file": "beton_018.html",
+      "words": 102,
+      "chars": 654,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 14,
+      "prev": "beton_017.html",
+      "next": "beton_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nalezená poezie:Debata o Středním Východě,New York",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nalezená poezie:Dlouhé horké léto",
+      "file": "beton_019.html",
+      "words": 47,
+      "chars": 281,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 15,
+      "prev": "beton_018.html",
+      "next": "beton_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nalezená poezie:Dlouhé horké léto",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Beton",
+      "file": "beton_020.html",
+      "words": 90,
+      "chars": 562,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 16,
+      "prev": "beton_019.html",
+      "next": "beton_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Beton",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebe",
+      "file": "beton_021.html",
+      "words": 25,
+      "chars": 121,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 17,
+      "prev": "beton_020.html",
+      "next": "beton_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Park Avenue",
+      "file": "beton_022.html",
+      "words": 77,
+      "chars": 546,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 18,
+      "prev": "beton_021.html",
+      "next": "beton_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Park Avenue",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "East River Drive",
+      "file": "beton_023.html",
+      "words": 44,
+      "chars": 267,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 19,
+      "prev": "beton_022.html",
+      "next": "beton_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "East River Drive",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rockefellerovo centrum",
+      "file": "beton_024.html",
+      "words": 73,
+      "chars": 466,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 20,
+      "prev": "beton_023.html",
+      "next": "beton_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rockefellerovo centrum",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Psychedelické zátiší",
+      "file": "beton_025.html",
+      "words": 29,
+      "chars": 169,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 21,
+      "prev": "beton_024.html",
+      "next": "beton_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Psychedelické zátiší",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nápisy na zdech",
+      "file": "beton_026.html",
+      "words": 92,
+      "chars": 569,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 22,
+      "prev": "beton_025.html",
+      "next": "beton_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nápisy na zdech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Demonologie",
+      "file": "beton_027.html",
+      "words": 114,
+      "chars": 673,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 23,
+      "prev": "beton_026.html",
+      "next": "beton_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Demonologie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Weekend v Long Beach",
+      "file": "beton_028.html",
+      "words": 95,
+      "chars": 537,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 24,
+      "prev": "beton_027.html",
+      "next": "beton_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Weekend v Long Beach",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noc",
+      "file": "beton_029.html",
+      "words": 41,
+      "chars": 238,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 25,
+      "prev": "beton_028.html",
+      "next": "beton_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noc",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Býčí zápasy",
+      "file": "beton_030.html",
+      "words": 127,
+      "chars": 721,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 26,
+      "prev": "beton_029.html",
+      "next": "beton_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Býčí zápasy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tvořivé trvání",
+      "file": "beton_031.html",
+      "words": 26,
+      "chars": 159,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 27,
+      "prev": "beton_030.html",
+      "next": "beton_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tvořivé trvání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svoboda",
+      "file": "beton_032.html",
+      "words": 26,
+      "chars": 177,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 28,
+      "prev": "beton_031.html",
+      "next": "beton_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svoboda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Velký bratr. Smysl poezie",
+      "file": "beton_033.html",
+      "words": 47,
+      "chars": 278,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 29,
+      "prev": "beton_032.html",
+      "next": "beton_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Velký bratr. Smysl poezie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Planeta",
+      "file": "beton_034.html",
+      "words": 151,
+      "chars": 850,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 30,
+      "prev": "beton_033.html",
+      "next": "beton_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Planeta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nokturno",
+      "file": "beton_035.html",
+      "words": 156,
+      "chars": 1018,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 31,
+      "prev": "beton_034.html",
+      "next": "beton_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nokturno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zámek",
+      "file": "beton_036.html",
+      "words": 60,
+      "chars": 332,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 32,
+      "prev": "beton_035.html",
+      "next": "beton_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zámek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kašpaři",
+      "file": "beton_037.html",
+      "words": 48,
+      "chars": 309,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 33,
+      "prev": "beton_036.html",
+      "next": "beton_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kašpaři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ariadna",
+      "file": "beton_038.html",
+      "words": 93,
+      "chars": 509,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 34,
+      "prev": "beton_037.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ariadna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 143,
+      "chars": 925,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "beton_038.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 3015,
+      "chars": 18297,
+      "ideas": 791
+    },
+    "chapters": {
+      "words": 2867,
+      "chars": 17344,
+      "ideas": 769
+    }
+  }
+}

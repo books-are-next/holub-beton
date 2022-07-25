@@ -1,29 +1,29 @@
 ---
 title: Nebe
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sten tane  
+Sten tane  
 v tenatech antén.  
-Víc nic. Ani to ne._
+Víc nic. Ani to ne.
 
 </section>
 
 <section>
 
-_Sten klenby  
+Sten klenby  
 v tenatech antén  
-tone._
+tone.
 
 </section>
 
 <section>
 
-_V tenatech antén  
+V tenatech antén  
 se klene  
 nic  
-ani netušené._
+ani netušené.
 
 </section>

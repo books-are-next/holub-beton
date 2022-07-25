@@ -1,46 +1,46 @@
 ---
 title: Kašpaři
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Skákali. Dupali.  
+Skákali. Dupali.  
 Scvrkli se. Prolezli sítnicí.  
 Zduřeli. Uvázli  
-            v oznamovací větě._
+            v oznamovací větě.
 
 </section>
 
 <section>
 
-_Vrčeli. Zpívali.  
+Vrčeli. Zpívali.  
 Založili bleší cirkus  
-a vlezli si do něj._
+a vlezli si do něj.
 
 </section>
 
 <section>
 
-_Vykvetli. Zvadli.  
+Vykvetli. Zvadli.  
 Lítali v dýni a padali po vlasu.  
 Takže  
-            došli ke kořenům._
+            došli ke kořenům.
 
 </section>
 
 <section>
 
-_Zazvonili. Zhasli.  
+Zazvonili. Zhasli.  
 Uhnuli před oponou.  
 Sežrali rolničky.  
 Pročež  
-            byli jmenováni_
+            byli jmenováni
 
 </section>
 
 <section>
 
-_dozorčími přes Kašpary._
+dozorčími přes Kašpary.
 
 </section>

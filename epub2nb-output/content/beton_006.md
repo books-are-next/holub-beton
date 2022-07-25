@@ -1,114 +1,114 @@
 ---
 title: Hory sv\. Vavřince,polární záře
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Zatímco toto se děje  
+Zatímco toto se děje  
         — tato bílkovitost,  
         — tato kapkovitost,  
-        — toto milosrdenství,_
+        — toto milosrdenství,
 
 </section>
 
 <section>
 
-_(A upozorňuji vás,  
-že jste na planetě…)_
+(A upozorňuji vás,  
+že jste na planetě…)
 
 </section>
 
 <section>
 
-_zatímco toto se děje  
+zatímco toto se děje  
         — toto spolčování,  
         — toto poskučívání,  
-        — tato rejdivost,_
+        — tato rejdivost,
 
 </section>
 
 <section>
 
-_(A upozorňuji vás,  
-že za posledních dvěstě světelných let…)_
+(A upozorňuji vás,  
+že za posledních dvěstě světelných let…)
 
 </section>
 
 <section>
 
-_zatímco toto se děje,_
+zatímco toto se děje,
 
 </section>
 
 <section>
 
-_dech čehosi stoupá a roste  
+dech čehosi stoupá a roste  
 a je běloskvoucí jako  
 plamen pochodně  
 prudce vržené  
-do zákulisí,_
+do zákulisí,
 
 </section>
 
 <section>
 
-_(A upozorňuji vás,  
+(A upozorňuji vás,  
 že eóny a aiolské hafry  
-si můžeme strčit za čepici)_
+si můžeme strčit za čepici)
 
 </section>
 
 <section>
 
-_dech stoupá a roste  
+dech stoupá a roste  
 a objevuje se, že  
 jedni jen vdechují a  
 druzí jen vydechují  
-        — velké vesmírné dušení,_
+        — velké vesmírné dušení,
 
 </section>
 
 <section>
 
-_(A upozorňuji vás,  
+(A upozorňuji vás,  
 že magnetické pole platí  
-i pro Prsa Matky Boží)_
+i pro Prsa Matky Boží)
 
 </section>
 
 <section>
 
-_velké vesmírné dušení:  
+velké vesmírné dušení:  
 leklé velryby se řítí mezi  
 praktikábly věčna,  
 bledé antické masky  
 smutných synů a dcer  
 zmítají se chórem,  
-oponou jen jen trhnout,_
+oponou jen jen trhnout,
 
 </section>
 
 <section>
 
-_bude se hrát,  
-bude se hrát něco bez začátku —_
+bude se hrát,  
+bude se hrát něco bez začátku —
 
 </section>
 
 <section>
 
-_(A upozorňuji vás,  
+(A upozorňuji vás,  
 že jste sám, na kameni sám,  
             jako  
 prst… prst…  
-prsteníček)_
+prsteníček)
 
 </section>
 
 <section>
 
-_A komáři žerou  
-a žerou._
+A komáři žerou  
+a žerou.
 
 </section>

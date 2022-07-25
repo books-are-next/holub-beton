@@ -1,63 +1,63 @@
 ---
 title: Ariadna
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Původně je jen pláň,  
+Původně je jen pláň,  
 bezmyšlenkovité  
-lísání země._
+lísání země.
 
 </section>
 
 <section>
 
-_Tu se za obzorem  
+Tu se za obzorem  
 vynoří Ariadna,  
 přichází, přináší  
 klubko,  
 počíná  
 odvíjet  
 nit,  
-nit,_
+nit,
 
 </section>
 
 <section>
 
-_nit  
+nit  
 běží. A kolem niti  
 z lysé pustiny, hle,  
 vyrůstá stěna, stěna za stěnou,  
 kolmé a příčné stěny, stěny a ozvěny,  
 ozvěny, jeskyně, nory a vývěry,  
 vyrůstá labyrint kolem niti  
-a zaujímá vše, i obzor, i Ariadnu._
+a zaujímá vše, i obzor, i Ariadnu.
 
 </section>
 
 <section>
 
-_A ponořená hora rodí myš  
+A ponořená hora rodí myš  
 a myš se stává  
-Minótaurem._
+Minótaurem.
 
 </section>
 
 <section>
 
-_Ze všech konců  
+Ze všech konců  
 ozývá se řev. A úzkost  
-lítá chodbami jako kuře bez hlavy._
+lítá chodbami jako kuře bez hlavy.
 
 </section>
 
 <section>
 
-_Tu Ariadna rychle  
+Tu Ariadna rychle  
 navíjí nit zpátky, ale to už  
 většinou  
-nejde._
+nejde.
 
 </section>

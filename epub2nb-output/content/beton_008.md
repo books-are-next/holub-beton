@@ -1,36 +1,36 @@
 ---
 title: Van Wyck Expressway
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Podle  
+Podle  
 Ohmova zákona  
 napětí jest přímo úměrné  
 odporu proudovodiče, který  
-pracuje beze ztrát._
+pracuje beze ztrát.
 
 </section>
 
 <section>
 
-_Podle  
+Podle  
 Kirchhoffova zákona  
 součet intensit proudů  
 ve větvích  
 rovná se intensitě proudu  
-nerozvětveného._
+nerozvětveného.
 
 </section>
 
 <section>
 
-_Blížíme se pólu  
+Blížíme se pólu  
 s rukama na volantu  
 a v srdci  
             s hrůzou  
 létacích ryb, které  
-ne a ne vzlétnout._
+ne a ne vzlétnout.
 
 </section>

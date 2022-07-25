@@ -1,31 +1,31 @@
 ---
 title: Velký bratr\. Smysl poezie
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_V široširé rovině z krotkých oblázků  
+V široširé rovině z krotkých oblázků  
 tu a tam, v rozestupech  
 vyrůstají ze země  
 svalnatá předloktí  
 a vykvétají do mohutných  
-volských pěstěných zápěstí._
+volských pěstěných zápěstí.
 
 </section>
 
 <section>
 
-          _Od pěsti k pěsti  
+          Od pěsti k pěsti  
           bloudí zaříkávač, hledaje  
-          dírku k podzemí,_
+          dírku k podzemí,
 
 </section>
 
 <section>
 
-            _kudy by zašeptnul —  
+            kudy by zašeptnul —  
             dovolte, ale máte  
-            špínu za nehty._
+            špínu za nehty.
 
 </section>

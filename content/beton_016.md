@@ -1,36 +1,36 @@
 ---
 title: Brooklynský hřbitov
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ležatý činžák mrtvých.  
+Ležatý činžák mrtvých.  
 Z podzemních ložnic  
 drobnými gejzíry vyvěrají  
 poryvy cizích hlasů.  
 Nálehavý řev  
-Posledních Otázek:_
+Posledních Otázek:
 
 </section>
 
 <section>
 
-          _Kolik nohou má vejce?  
+          Kolik nohou má vejce?  
      Jsou zelení psi lehčí vzduchu?  
           Už vám hořelo ve slezině?  
      Splachuje se za rakovinou?  
           Jakej zadek měla svatá Alžběta?  
      Ochutnalas ledvinovej kámen?  
-          Taky vám roste votazník mezi nohama?_
+          Taky vám roste votazník mezi nohama?
 
 </section>
 
 <section>
 
-_Tisíce ohleduplných rukou  
+Tisíce ohleduplných rukou  
 zespoda  
 snaží se zamknout,  
-ale země nedovírá._
+ale země nedovírá.
 
 </section>

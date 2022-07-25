@@ -1,46 +1,46 @@
 ---
 title: Pantheismus
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Všudy bůh.  
-Představuji si_
+Všudy bůh.  
+Představuji si
 
 </section>
 
 <section>
 
-         _dlouhá kostnatá  
+         dlouhá kostnatá  
          tykadla,  
          facetované oči,  
-         potem zbrocené._
+         potem zbrocené.
 
 </section>
 
 <section>
 
-_Míří, míří a mlčí,  
+Míří, míří a mlčí,  
 mlčí a míří,  
-tedy je._
+tedy je.
 
 </section>
 
 <section>
 
-         _V okně, za rohem,  
+         V okně, za rohem,  
          v díře, v kanálu,  
          v oblaku, v hodině  
-         života našeho amen._
+         života našeho amen.
 
 </section>
 
 <section>
 
-_Ostatně jsme tu  
+Ostatně jsme tu  
 jen díky tomu,  
 že se někdo  
-ještě nestrefil._
+ještě nestrefil.
 
 </section>

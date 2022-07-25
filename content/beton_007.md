@@ -1,11 +1,11 @@
 ---
 title: Amerika
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Klavír řítící se  
+Klavír řítící se  
 nedovolenou rychlostí  
 po dálnici noci  
 proniká skleněnou skříní  
@@ -17,18 +17,18 @@ tón Fis
 černá dívčí tvář moře  
 se sklání nad námi,  
 klavír krvácí tichou  
-neznatelnou melodií —_
+neznatelnou melodií —
 
 </section>
 
 <section>
 
-_Amerika._
+Amerika.
 
 </section>
 
 <section>
 
-_Ale můžete to dokázat?_
+Ale můžete to dokázat?
 
 </section>

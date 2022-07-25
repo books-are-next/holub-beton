@@ -1,38 +1,38 @@
 ---
 title: Harlem
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Jazz  
+Jazz  
 policejních sirén.  
 Zavilý stařec tancuje  
-u kandelábru._
+u kandelábru.
 
 </section>
 
 <section>
 
-_Ze všech aut teče. Ze všech  
-domů teče._
+Ze všech aut teče. Ze všech  
+domů teče.
 
 </section>
 
 <section>
 
-_Protože auta jsou koly vzhůru  
+Protože auta jsou koly vzhůru  
 a domy se překlápějí  
-bez zátěže._
+bez zátěže.
 
 </section>
 
 <section>
 
-_A stařec visí  
+A stařec visí  
 na pupeční šňůře, z níž  
 prýští ke kouřícímu nebi  
 olejovitá  
-embryonální krev._
+embryonální krev.
 
 </section>

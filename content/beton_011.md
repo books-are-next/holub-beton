@@ -1,11 +1,11 @@
 ---
 title: První mráz
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Za dveřmi     toho rána     zdechne ticho  
+Za dveřmi     toho rána     zdechne ticho  
 a jeho kostnaté ručičky  
 praskají na chodníku.  
 Nastává prodlení,     přeryv,     závrať,  
@@ -13,51 +13,51 @@ mizí spojitost     mezi krokem     a chůzí,
 mezi startérem     a motorem,  
 mezi tělem     a slovem,  
 a děs, tento potrat příčinnosti,  
-přisává se     k prázdným prsům města._
+přisává se     k prázdným prsům města.
 
 </section>
 
 <section>
 
-_Není kam._
+Není kam.
 
 </section>
 
 <section>
 
-_Zdivočelí slavíci snů     pronásledují dětství._
+Zdivočelí slavíci snů     pronásledují dětství.
 
 </section>
 
 <section>
 
-_Kdosi     vystřelí z pušky     v Bryan Parku  
+Kdosi     vystřelí z pušky     v Bryan Parku  
 a projektil bloudí     mezi stromy,  
 stěnami,     ozvěnami     a nedůstojně  
 prchajícími starci,     aniž by byla  
 spojitost     mezi výstřelem     a smrtí,  
 tímto směšně křečovitým     pádem  
-a svíjením na opuštěné, křehké zemi._
+a svíjením na opuštěné, křehké zemi.
 
 </section>
 
 <section>
 
-_Několik policistů     zatýká zastřeleného._
+Několik policistů     zatýká zastřeleného.
 
 </section>
 
 <section>
 
-_Slavíci unikají._
+Slavíci unikají.
 
 </section>
 
 <section>
 
-_A nad bytím     utvrzuje se     legitimní  
+A nad bytím     utvrzuje se     legitimní  
 metafyzika  
 kávy Yuban,     rajského protlaku  
-a páry od úst._
+a páry od úst.
 
 </section>

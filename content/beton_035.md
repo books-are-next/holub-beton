@@ -1,11 +1,11 @@
 ---
 title: Nokturno
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_K ránu  
+K ránu  
 tlouklo na dveře. Otevřel jsem. Byla to  
 sviluška zvíci obláčkového leoparda.  
      Ukazovala  
@@ -33,14 +33,14 @@ mamutí ježdík škrtal ploutevnatými hnáty
 a u moře už hořelo; v plamenných děrách  
      zjevovaly  
 se vyjevené obličeje pakoní a smutnic,  
-bílkovité a hnilé, a mizely. A řvali sumýši._
+bílkovité a hnilé, a mizely. A řvali sumýši.
 
 </section>
 
 <section>
 
-_Zavřel jsem. — Co je, ptali se naši. — Nic,  
+Zavřel jsem. — Co je, ptali se naši. — Nic,  
 řekl jsem, všecko v pořádku. Bylo slyšet,  
-jak pod piánem klidně oddychuje harpyje._
+jak pod piánem klidně oddychuje harpyje.
 
 </section>

@@ -1,36 +1,36 @@
 ---
 title: Park Avenue
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Když město nabývá převahy  
+Když město nabývá převahy  
 nad svými obyvateli,     je to  
 docela v pořádku,     neboť rozkladu  
 podléhá jen organická hmota, s bublinkami  
 sirovodíku.     Zatímco smrt kamene  
 jest oblak     a geometrie rovnoběžek  
-je jedinou nadějí     nekonečna._
+je jedinou nadějí     nekonečna.
 
 </section>
 
 <section>
 
-_Bělomodročervená     helikoptéra  
+Bělomodročervená     helikoptéra  
 přistává na Pan Amu, stroje IBM  
 kalkulují     čistý proud vědomí,  
 sejfy First National     váží  
 své tunové sny     a fontány u Seagram  
 se něžně milují.     Bronz bezpečně  
-padá vzhůru._
+padá vzhůru.
 
 </section>
 
 <section>
 
-_Deset tisíc skleněných očí     vidí,  
+Deset tisíc skleněných očí     vidí,  
 aniž by trpělo     oním osudovým  
-zoufalstvím viděného._
+zoufalstvím viděného.
 
 </section>

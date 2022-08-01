@@ -13,6 +13,7 @@ meta:
   contentType: poetry
   publisherShort: mkp
   edition: Poezie
+  isbn: 978-80-274-2687-4
 readingOrder:
   - promo.html
   - beton_005.html

@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-beton-b18b0ae",
-  "revision": "b18b0ae",
+  "identifier": "holub-beton-2a7d210",
+  "revision": "2a7d210",
   "readingOrder": [
     "promo.html",
     "beton_005.html",
@@ -49,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 12:58:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659358701241
+    "date": "Thu Sep 29 2022 21:24:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486689678
   },
   "documents": [
     {
@@ -749,7 +749,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 147,
-      "chars": 961,
+      "chars": 962,
       "ideas": 19,
       "role": "about",
       "order": null,
@@ -769,7 +769,7 @@
   "totals": {
     "all": {
       "words": 3019,
-      "chars": 18333,
+      "chars": 18334,
       "ideas": 792
     },
     "chapters": {

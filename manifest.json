@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "holub-beton-1b6b1e4",
-  "revision": "1b6b1e4",
+  "identifier": "holub-beton-f993b59",
+  "revision": "f993b59",
   "readingOrder": [
     "promo.html",
     "beton_005.html",
@@ -49,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:36:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664908589776
+    "date": "Tue Oct 04 2022 22:54:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924040783
   },
   "documents": [
     {
